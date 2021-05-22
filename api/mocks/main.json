@@ -1,0 +1,12 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Delivery"
+        },
+        {
+            "id": 2,
+            "name": "Pagamentos"
+        }
+    ]
+}
