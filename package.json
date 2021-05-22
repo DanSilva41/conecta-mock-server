@@ -1,0 +1,17 @@
+{
+  "name": "conecta-mock-server",
+  "version": "1.0.0",
+  "description": "Mock API",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "keywords": [
+    "mock"
+  ],
+  "author": "Danilo Silva - CI&T",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
